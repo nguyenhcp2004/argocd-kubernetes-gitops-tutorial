@@ -52,7 +52,3 @@ To verify, you can get all grades with:
 ```bash
 curl http://localhost:<port>/grades
 ```
-
-## Become a Cloud and DevOps Engineer
-
-Learn every tool that matters: https://rayanslim.com
